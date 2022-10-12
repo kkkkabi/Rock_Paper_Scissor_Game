@@ -41,3 +41,21 @@ Game procedure are as follows:
 4.	Determine the winner of this round, and 1 point is given to the winner.
 5.	The first to get 5 points is the winner of this game.
 6.	At the end, player can choose to continue playing the game or quit the game.
+
+
+Screenshots of playing the rock-paper-scissor game 
+----
+1.	Welcome and start the game. Player needs to enter a number to pick one of the options of scissor, paper and rock.<br>
+ 
+
+2.	The computer randomly picks one of the options of scissor, paper, and rock. <br>
+One point is given to the winner.<br>
+ 
+3.	Continue the game until the player or the computer gets five points.<br>
+The first to get five points winds the game.<br>
+The total numbers of rounds played are displayed.<br>
+Once the winner is determined, the player is asked to quit or restart the game.<br>
+ 
+
+4.	Player can quit the game at any time.<br>
+ 
