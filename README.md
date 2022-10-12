@@ -46,16 +46,17 @@ Game procedure are as follows:
 Screenshots of playing the rock-paper-scissor game 
 ----
 1.	Welcome and start the game. Player needs to enter a number to pick one of the options of scissor, paper and rock.<br>
- 
+![image](https://github.com/kkkkabi/Rock_Paper_Scissor_Game/blob/65f22a2a57d9d98f379af368def028b90128508f/Game_images/Picture%201.png)
 
 2.	The computer randomly picks one of the options of scissor, paper, and rock. <br>
 One point is given to the winner.<br>
- 
+![image](https://github.com/kkkkabi/Rock_Paper_Scissor_Game/blob/65f22a2a57d9d98f379af368def028b90128508f/Game_images/Picture%202.png)
+
 3.	Continue the game until the player or the computer gets five points.<br>
 The first to get five points winds the game.<br>
 The total numbers of rounds played are displayed.<br>
 Once the winner is determined, the player is asked to quit or restart the game.<br>
- 
+![image](https://github.com/kkkkabi/Rock_Paper_Scissor_Game/blob/65f22a2a57d9d98f379af368def028b90128508f/Game_images/Picture%203.png)
 
 4.	Player can quit the game at any time.<br>
- 
+![image](https://github.com/kkkkabi/Rock_Paper_Scissor_Game/blob/65f22a2a57d9d98f379af368def028b90128508f/Game_images/Picture%204.png)
